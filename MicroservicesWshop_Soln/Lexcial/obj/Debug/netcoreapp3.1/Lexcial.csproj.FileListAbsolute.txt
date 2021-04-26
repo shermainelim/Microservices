@@ -1,0 +1,13 @@
+C:\Users\cherwah\source\repos\MicroSoln1\Lexcial\bin\Debug\netcoreapp3.1\Lexcial.exe
+C:\Users\cherwah\source\repos\MicroSoln1\Lexcial\bin\Debug\netcoreapp3.1\Lexcial.deps.json
+C:\Users\cherwah\source\repos\MicroSoln1\Lexcial\bin\Debug\netcoreapp3.1\Lexcial.runtimeconfig.json
+C:\Users\cherwah\source\repos\MicroSoln1\Lexcial\bin\Debug\netcoreapp3.1\Lexcial.runtimeconfig.dev.json
+C:\Users\cherwah\source\repos\MicroSoln1\Lexcial\bin\Debug\netcoreapp3.1\Lexcial.dll
+C:\Users\cherwah\source\repos\MicroSoln1\Lexcial\bin\Debug\netcoreapp3.1\Lexcial.pdb
+C:\Users\cherwah\source\repos\MicroSoln1\Lexcial\obj\Debug\netcoreapp3.1\Lexcial.csproj.CoreCompileInputs.cache
+C:\Users\cherwah\source\repos\MicroSoln1\Lexcial\obj\Debug\netcoreapp3.1\Lexcial.AssemblyInfoInputs.cache
+C:\Users\cherwah\source\repos\MicroSoln1\Lexcial\obj\Debug\netcoreapp3.1\Lexcial.AssemblyInfo.cs
+C:\Users\cherwah\source\repos\MicroSoln1\Lexcial\obj\Debug\netcoreapp3.1\Lexcial.dll
+C:\Users\cherwah\source\repos\MicroSoln1\Lexcial\obj\Debug\netcoreapp3.1\Lexcial.pdb
+C:\Users\cherwah\source\repos\MicroSoln1\Lexcial\obj\Debug\netcoreapp3.1\Lexcial.genruntimeconfig.cache
+C:\Users\cherwah\source\repos\MicroSoln1\Lexcial\obj\Debug\netcoreapp3.1\Lexcial.csprojAssemblyReference.cache
